@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Create indenticon-like visual hashes styled like Github and Gravatar (retro) avatars",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "homepage": "https://github.com/hashdog/node-identicon-github",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
