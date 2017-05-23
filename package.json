@@ -35,6 +35,7 @@
   "license": "BSD",
   "dependencies": {
     "hash.js": "^1.0.3",
+    "lodash.filter": "^4.6.0",
     "lodash.flatten": "^4.4.0",
     "lodash.groupby": "^4.6.0",
     "lodash.isnull": "^3.0.0",
