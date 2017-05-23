@@ -35,6 +35,7 @@
   "license": "BSD",
   "dependencies": {
     "buffer": "^5.0.6",
+    "crypto-browserify": "^3.11.0",
     "lodash.flatten": "^4.4.0",
     "lodash.groupby": "^4.6.0",
     "lodash.isnull": "^3.0.0",
