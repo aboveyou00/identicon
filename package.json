@@ -1,6 +1,6 @@
 {
   "name": "@aboveyou00/identicon",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Create indenticon-like visual hashes styled like Github and Gravatar (retro) avatars",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
