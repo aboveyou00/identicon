@@ -5,7 +5,7 @@ declare module '@aboveyou00/identicon' {
         toDataURL(): string;
     }
     type IdenticonFn = {
-        (name: string, opts: any): Identicon;
+        (name: string, opts?: any): Identicon;
         style: any;
     }
 
