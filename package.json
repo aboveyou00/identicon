@@ -4,13 +4,13 @@
   "description": "Create indenticon-like visual hashes styled like Github and Gravatar (retro) avatars",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
-  "homepage": "https://github.com/hashdog/node-identicon-github",
+  "homepage": "https://github.com/aboveyou00/identicon",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hashdog/node-identicon-github.git"
+    "url": "https://github.com/aboveyou00/identicon.git"
   },
   "keywords": [
     "identicon",
@@ -25,6 +25,13 @@
     "gravatar"
   ],
   "author": "Mario Colque <mario@hashdog.io>",
+  "contributors": [
+    {
+      "email": "brandonyoyoslade@gmail.com",
+      "name": "Brandon Slade",
+      "url": "http://www.bestoflies.com"
+    }
+  ],
   "license": "BSD",
   "dependencies": {
     "lodash.flatten": "^4.4.0",
