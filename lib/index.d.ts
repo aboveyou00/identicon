@@ -1,14 +1,14 @@
 
 
 declare module '@aboveyou00/identicon' {
-    declare type Identicon = {
+    type Identicon = {
         toDataURL(): string;
     }
-    declare type IdenticonFn = {
+    type IdenticonFn = {
         (name: string, opts: any): Identicon;
-        styles: any;
+        style: any;
     }
 
-    declare let identicon: IdenticonFn;
+    let identicon: IdenticonFn;
     export = identicon;
 }
